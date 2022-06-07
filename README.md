@@ -1,2 +1,2 @@
-# Exerc-cios-Python
+# Exercícios-Python
 For Study
